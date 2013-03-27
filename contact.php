@@ -1,0 +1,18 @@
+<?php
+require_once('head.html');
+?>
+<div class="container-fluid">
+    <h1>Contact</h1>
+    <hr />
+    <div class="row-fluid">
+        <div class="span12">
+            <p>I aim to reply to messages within 24 hours, contact me for anything you need.</p>
+            <ul>
+                <li>Email address: <a href="mailto:contact@steffanharries.me.uk">contact[at]steffanharries.me.uk</a></li>
+                <li>LinkedIn: <a href="http://linkedin.com/in/steffanharries/" target="_blank">linkedin.com/in/steffanharries</a></li>
+                <li>Flickr: <a href="http://www.flickr.com/steffanharries/" target="_blank">flickr.com/steffanharries/</a></li>
+            </ul>
+        </div>
+    </div><!--/row-->
+
+    <?php require_once('foot.html'); ?>

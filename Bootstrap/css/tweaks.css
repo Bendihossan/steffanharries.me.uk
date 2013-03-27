@@ -1,0 +1,81 @@
+/*
+* Steffan Harries Copyright 2012
+* Twitter Bootstrap Tweaks
+*/
+
+h1, h2, h3, h4, h5 {
+	font-weight: 100;
+}
+h1 {
+	margin-bottom: 0.5em;
+}
+
+h2 {
+	margin-top: 0;
+}
+.about-me{
+	width: 100%;
+	max-width: 350px;
+	margin: 0 auto;
+	display: block;
+}
+.me {
+	float: right;
+	margin-left: 3%;
+ ;
+	max-width: 400px;
+}
+.hero-unit p {
+	max-width: 1100px;
+}
+
+.hero-unit h1 {
+	font-size: 3.5em;
+}
+
+.span1, .span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11, .span12 {
+	padding: 5px;	
+}
+
+.home-link{
+	color: black;
+}
+
+#photoCarousel .carousel-inner .item img {
+	width: 100%;
+}
+
+.well ul {
+	margin-left: 0;
+	list-style-type: none;
+}
+.well ul li {
+	margin-top: 1em;
+}
+
+@media (max-width: 800px) {
+	.me {
+		float: none;
+		display: block;
+		width: 100%;
+		max-width: none;
+		margin-left: auto;
+		margin-right: auto
+	}
+
+	.hero-unit h1 {
+		 text-align: center;
+	}
+}
+
+@media (max-width: 750px) {
+	.hero-unit h1 {
+  		font-size: 200%;
+	}
+}
+
+@media (max-width: 500px) {
+	.hero-unit h1 {
+  		font-size: 100%;
+	}
+}

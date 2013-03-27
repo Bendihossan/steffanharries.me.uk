@@ -8,6 +8,7 @@ require_once('head.html');
             <div class="span8">
                 <h2>Web &amp; Internet</h2>
                 <p>Web development is my trade and it's what I love. The web is a massively growing portal of information and developing methods of providing all that content without overloading people and still keeping them interested is a unique challenge. Similarly, providing access to content on mobile devices while keeping loading times low on slower mobile connections is often very difficult. These challenges are being tackled by responsive web design and mobile web content strategy which are trends that are ever evolving.</p>
+                <p>Check out my code on GitHub: <a href="https://github.com/Bendihossan" target="_blank">github.com/Bendihossan</a></p>
                 <hr />
                 <h2>Experience</h2>
                 <h3>Aberystwyth University's Web Team</h3>

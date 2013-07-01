@@ -35,6 +35,7 @@ require_once('head.html');
                         <li>Linux Systems
                         <li>Photography
                         <li>Motorsport
+                        <li>Cycling</li>
                     </ul>
                 </div>
             </div>

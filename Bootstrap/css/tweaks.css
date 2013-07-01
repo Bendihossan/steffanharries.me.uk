@@ -1,56 +1,59 @@
 /*
-* Steffan Harries Copyright 2012
 * Twitter Bootstrap Tweaks
 */
 
+::selection {
+    background-color: #dd4814;
+    color: white;
+}
+
 h1, h2, h3, h4, h5 {
-	font-weight: 100;
+    font-weight: 100;
 }
 h1 {
-	margin-bottom: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 h2 {
-	margin-top: 0;
+    margin-top: 0;
 }
 .about-me{
-	width: 100%;
-	max-width: 350px;
-	margin: 0 auto;
-	display: block;
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+    display: block;
 }
 .me {
-	float: right;
-	margin-left: 3%;
- ;
-	max-width: 400px;
+    float: right;
+    margin-left: 3%;
+    max-width: 400px;
 }
 .hero-unit p {
-	max-width: 1100px;
+    max-width: 1100px;
 }
 
 .hero-unit h1 {
-	font-size: 3.5em;
+    font-size: 3.5em;
 }
 
 .span1, .span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11, .span12 {
-	padding: 5px;	
+    padding: 5px;
 }
 
 .home-link{
-	color: black;
+    color: black;
 }
 
 #photoCarousel .carousel-inner .item img {
-	width: 100%;
+    width: 100%;
 }
 
 .well ul {
-	margin-left: 0;
-	list-style-type: none;
+    margin-left: 0;
+    list-style-type: none;
 }
 .well ul li {
-	margin-top: 1em;
+    margin-top: 1em;
 }
 
 footer p {
@@ -84,13 +87,13 @@ footer .social {
 }
 
 @media (max-width: 750px) {
-	.hero-unit h1 {
-  		font-size: 200%;
-	}
+    .hero-unit h1 {
+        font-size: 200%;
+    }
 }
 
 @media (max-width: 500px) {
-	.hero-unit h1 {
-  		font-size: 100%;
-	}
+    .hero-unit h1 {
+        font-size: 100%;
+    }
 }

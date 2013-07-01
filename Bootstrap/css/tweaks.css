@@ -53,19 +53,34 @@ h2 {
 	margin-top: 1em;
 }
 
-@media (max-width: 800px) {
-	.me {
-		float: none;
-		display: block;
-		width: 100%;
-		max-width: none;
-		margin-left: auto;
-		margin-right: auto
-	}
+footer p {
+    float: left;
+}
 
-	.hero-unit h1 {
-		 text-align: center;
-	}
+footer .social {
+    text-align: right;
+}
+
+@media (max-width: 800px) {
+    .me {
+        float: none;
+        display: block;
+        width: 100%;
+        max-width: none;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    .hero-unit h1 {
+        text-align: center;
+    }
+
+    footer p,
+    footer .social {
+        width: 100%;
+        text-align: center;
+    }
+
 }
 
 @media (max-width: 750px) {

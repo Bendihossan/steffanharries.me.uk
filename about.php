@@ -13,7 +13,7 @@ require_once('head.html');
                 </p>
             </div>
             <div class="span5">
-                <img src="/Bootstrap/img/me.jpg" alt="Me" class="about-me" width="40%" />
+                <img src="/Bootstrap/img/me.jpg" alt="Me" class="about-me" width="250" />
             </div>
         </div><!--/row-->
         <div class="row-fluid">

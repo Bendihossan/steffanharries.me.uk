@@ -38,6 +38,7 @@ require_once('head.html');
                             <a href="http://www.aber.ac.uk/" target="_blank">Aberystwyth University</a> (June 2010 - July 2011)
                         <li>Student <br />
                             <a href="http://www.aber.ac.uk/en/cs/" target="_blank">Aberystwyth University</a> (Sept 2008 - July 2012)
+                    </ul>
                 </div>
                 <p>Organisations:</p>
                 <div class="well">

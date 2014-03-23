@@ -1,6 +1,6 @@
-<?php
-require_once('head.html');
-?>
+{% extends 'layout.html.twig' %}
+
+{% block body %}
 <div class="container-fluid">
     <h1>Contact</h1>
     <hr />
@@ -14,5 +14,4 @@ require_once('head.html');
             </ul>
         </div>
     </div><!--/row-->
-
-    <?php require_once('foot.html'); ?>
+{% endblock %}
